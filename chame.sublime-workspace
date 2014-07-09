@@ -1,0 +1,739 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"returnSound"
+			],
+			[
+				"na",
+				"navigationSound"
+			],
+			[
+				"Em",
+				"EmulatorChoiceMenu"
+			],
+			[
+				"retu",
+				"returnCode"
+			],
+			[
+				"font",
+				"font_Title"
+			],
+			[
+				"tit",
+				"titleImg"
+			],
+			[
+				"ite",
+				"itemHeight"
+			],
+			[
+				"sel",
+				"selectorRectangle"
+			],
+			[
+				"C",
+				"CONV_Y"
+			],
+			[
+				"CON",
+				"CONV_X"
+			],
+			[
+				"ti",
+				"titleImg"
+			],
+			[
+				"cur",
+				"currentOptions"
+			],
+			[
+				"cu",
+				"currentOptions"
+			],
+			[
+				"to",
+				"toggleElement"
+			],
+			[
+				"subti",
+				"subtitol"
+			],
+			[
+				"su",
+				"subItem"
+			],
+			[
+				"cure",
+				"currentOptions"
+			],
+			[
+				"cl",
+				"classmethod"
+			],
+			[
+				"hel",
+				"help2"
+			],
+			[
+				"SCR",
+				"SCREENHEIGHT"
+			],
+			[
+				"is",
+				"isFolder"
+			],
+			[
+				"base",
+				"baseFolder"
+			],
+			[
+				"scre",
+				"screenSave"
+			],
+			[
+				"fra",
+				"frame"
+			],
+			[
+				"o",
+				"offsetX"
+			],
+			[
+				"tr",
+				"True"
+			],
+			[
+				"DIS",
+				"DISPLAY_INFO"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"fram",
+				"frameStack"
+			],
+			[
+				"def",
+				"defs	Method"
+			],
+			[
+				"frame",
+				"frame"
+			],
+			[
+				"pyga",
+				"pygame"
+			],
+			[
+				"emu",
+				"emulatorCount"
+			],
+			[
+				"em",
+				"emulatorCount"
+			],
+			[
+				"itemheight",
+				"_itemheight"
+			],
+			[
+				"fil",
+				"fileItemsAllowed"
+			],
+			[
+				"file",
+				"fileitems"
+			],
+			[
+				"KEY",
+				"KEY_BUT_SCROLL_DOWN"
+			],
+			[
+				"al",
+				"extensionAllowed"
+			],
+			[
+				"ex",
+				"extensionAllowEd"
+			],
+			[
+				"load",
+				"loadFolder"
+			],
+			[
+				"fol",
+				"foldEr"
+			],
+			[
+				"cnv",
+				"convY"
+			],
+			[
+				"Rea",
+				"ReadAndSaveData"
+			],
+			[
+				"my",
+				"myNum"
+			],
+			[
+				"n",
+				"num"
+			],
+			[
+				"g",
+				"GetTimeSpan"
+			],
+			[
+				"M",
+				"MyDate"
+			],
+			[
+				"D",
+				"day"
+			],
+			[
+				"My",
+				"MyLong"
+			],
+			[
+				"Get",
+				"GetDate"
+			],
+			[
+				"DATE",
+				"dateToReturn"
+			],
+			[
+				"RET",
+				"return"
+			],
+			[
+				"pr",
+				"PrintAllPerfectSquares"
+			],
+			[
+				"i",
+				"int"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "select.sh",
+			"settings":
+			{
+				"buffer_size": 1909,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "frame/gamechoice.py",
+			"settings":
+			{
+				"buffer_size": 8537,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "frame/emchoice.py",
+			"settings":
+			{
+				"buffer_size": 8514,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "installUpdate.sh",
+			"settings":
+			{
+				"buffer_size": 3380,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "selector.py",
+			"settings":
+			{
+				"buffer_size": 2610,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 381.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"comm",
+				"Toggle Comment"
+			]
+		],
+		"width": 549.0
+	},
+	"console":
+	{
+		"height": 162.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"returnSound",
+			"currentOptionsList",
+			"allOptionsList",
+			"ft",
+			"pintaelement",
+			"print",
+			"_itemh",
+			"print",
+			"drawimage",
+			"Event",
+			"print",
+			"moving_count",
+			"KEYDOWN",
+			"convX",
+			"convY",
+			"clock",
+			"SCREEN_WIDTH",
+			"SCREEN_HEIGHT",
+			"CONV_X",
+			"CONV_Y",
+			"Singleton.PYGAME",
+			"font2_name",
+			"FONT_NAME",
+			"_pygame",
+			"SCREEN_WIDTH",
+			"CONV_Y",
+			"CONV_X",
+			"SCREENWIDTH",
+			"SCREENHEIGHT",
+			"_pygame",
+			"pygame",
+			"font_item",
+			"_font_item",
+			"font_itemsel",
+			"pintalementFileSelector",
+			"font_name",
+			"drawimage",
+			"inspect",
+			"screenX",
+			"screenY",
+			"screenX",
+			"SCREENHEIGHT",
+			"SCREENWIDTH",
+			"screen",
+			"convY",
+			"convX",
+			"moving_time",
+			"ft",
+			"moving",
+			"loadMachine",
+			"help2",
+			"help1",
+			"drawimage",
+			"InitPygameDisplay",
+			"screenHeight",
+			"convY",
+			"convX",
+			"FileSelector.visibleitems",
+			"items",
+			"current",
+			"loadFolder",
+			"prepareitems",
+			"inspect",
+			"screenWidth",
+			"font_item",
+			"img_folder_icon",
+			"visibleitems",
+			"selwidth",
+			"selectleft",
+			"selectmarge",
+			"listleft",
+			"limitpos",
+			"itemh",
+			"startpos",
+			"img_folder_icon",
+			"font_item",
+			"convY",
+			"convX",
+			"font_name",
+			"titol",
+			"img_subtitol",
+			"img_titol",
+			"font_subtitol",
+			"font_titol",
+			"font_item",
+			"font_itemsel",
+			"extensionAllow",
+			"titol",
+			"InitPygameDisplay",
+			"clock",
+			"height",
+			"continueBoool"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"navigationSound",
+			"currentOptions",
+			"allOptions",
+			"paintElement",
+			"pygame.KEYDOWN",
+			"Singleton.CONV_Y",
+			"Singleton.SCREEN_WIDTH",
+			"Singleton.SCREEN_HEIGHT",
+			"Singleton.CONV_X",
+			"Singleton.CONV_Y",
+			"pygame",
+			"Singleton.FONT_NAME2",
+			"Singleton.FONT_NAME",
+			"Singleton.PYGAME",
+			"Singleton.SCREEN_WIDTH",
+			"Singleton.CONV_Y",
+			"Singleton.CONV_X",
+			"Singleton.SCREENWIDTH",
+			"Singleton.SCREENHEIGHT",
+			"Singleton.PYGAME",
+			"_pygame",
+			"EmulatorChoiceMenu.pygame",
+			"paintElement",
+			"SCREENWIDTH",
+			"SCREENHEIGHT",
+			"SCREENWIDTH",
+			"SCREEN",
+			"CONV_Y",
+			"CONV_X",
+			"loadConsole",
+			"SCREENHEIGHT",
+			"CONV_Y",
+			"CONV_X",
+			"GameChoiceMenu._visibleitems",
+			"folderItems",
+			"SCREENWIDTH",
+			"_font_item",
+			"_img_folder_icon",
+			"_visibleitems",
+			"_selwidth",
+			"_selectleft",
+			"_selectmarge",
+			"_listleft",
+			"_limitpos",
+			"_itemh",
+			"_startpos",
+			"CONV_Y",
+			"CONV_X",
+			"FONT_NAME",
+			"title",
+			"img_subtitle",
+			"img_title",
+			"extensionAllowed"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "select.sh",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1909,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								601,
+								601
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "frame/gamechoice.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8537,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1801,
+								1801
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 237.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "frame/emchoice.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8514,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7448,
+								7448
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2442.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "installUpdate.sh",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3380,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								426,
+								426
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "selector.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2610,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								724,
+								724
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 153.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 330.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 142.0
+	},
+	"project": "chame.sublime-project",
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				""
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"selected_items":
+		[
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 249.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

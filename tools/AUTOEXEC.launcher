@@ -1,0 +1,10 @@
+cd /opt/selector/tools
+sudo ./usbmount.sh > /dev/null 2>&1
+sudo killall retrogame piarcade
+sudo /opt/selector/tools/retrogame &
+sudo /opt/selector/tools/piarcade &
+
+cd /roms
+sh AUTOEXEC.launcher
+
+

@@ -1,0 +1,188 @@
+%!Adobe-FontList 1.14
+%Locale:0x40c
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Chicago
+FamilyName:Chicago
+StyleName:Regular
+FullName:Chicago
+MenuName:Chicago
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\Skydrive\Documents\Project\Raspberry Project\ChameleonPi-14-05-26\selector\resources\Font\chicago.ttf
+DataFormat:sfntData
+FileLength:58188
+FileModTime:1401114840
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\Skydrive\Documents\Project\Raspberry Project\ChameleonPi-14-05-26\selector\resources\Font\Orbitron - OFL.txt
+FileModTime:1401114840
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Orbitron-Black
+FamilyName:Orbitron
+StyleName:Black
+FullName:Orbitron-Black
+MenuName:Orbitron
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:E:\Skydrive\Documents\Project\Raspberry Project\ChameleonPi-14-05-26\selector\resources\Font\Orbitron-Black.ttf
+DataFormat:sfntData
+FileLength:37584
+FileModTime:1401114840
+WeightClass:900
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Orbitron-Bold
+FamilyName:Orbitron
+StyleName:Bold
+FullName:Orbitron-Bold
+MenuName:Orbitron
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:E:\Skydrive\Documents\Project\Raspberry Project\ChameleonPi-14-05-26\selector\resources\Font\Orbitron-Bold.ttf
+DataFormat:sfntData
+FileLength:38580
+FileModTime:1401114840
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Orbitron-Medium
+FamilyName:Orbitron
+StyleName:Medium
+FullName:Orbitron-Medium
+MenuName:Orbitron
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\Skydrive\Documents\Project\Raspberry Project\ChameleonPi-14-05-26\selector\resources\Font\Orbitron-Medium.ttf
+DataFormat:sfntData
+FileLength:39816
+FileModTime:1401114840
+WeightClass:500
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Orbitron-Regular
+FamilyName:Orbitron
+StyleName:Regular
+FullName:Orbitron-Light
+MenuName:Orbitron
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\Skydrive\Documents\Project\Raspberry Project\ChameleonPi-14-05-26\selector\resources\Font\Orbitron-Regular.ttf
+DataFormat:sfntData
+FileLength:39484
+FileModTime:1401114840
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\Skydrive\Documents\Project\Raspberry Project\ChameleonPi-14-05-26\selector\resources\Font\Quattrocento - OFL.txt
+FileModTime:1401114840
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:QuattrocentoSans-Bold
+FamilyName:Quattrocento Sans
+StyleName:Bold
+FullName:Quattrocento Sans Bold
+MenuName:Quattrocento Sans
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:E:\Skydrive\Documents\Project\Raspberry Project\ChameleonPi-14-05-26\selector\resources\Font\QuattrocentoSans-Bold.ttf
+DataFormat:sfntData
+FileLength:100560
+FileModTime:1401114840
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:QuattrocentoSans-BoldItalic
+FamilyName:Quattrocento Sans
+StyleName:Bold Italic
+FullName:Quattrocento Sans Bold Italic
+MenuName:Quattrocento Sans
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:E:\Skydrive\Documents\Project\Raspberry Project\ChameleonPi-14-05-26\selector\resources\Font\QuattrocentoSans-BoldItalic.ttf
+DataFormat:sfntData
+FileLength:100748
+FileModTime:1401114840
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:QuattrocentoSans-Italic
+FamilyName:Quattrocento Sans
+StyleName:Italic
+FullName:Quattrocento Sans Italic
+MenuName:Quattrocento Sans
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\Skydrive\Documents\Project\Raspberry Project\ChameleonPi-14-05-26\selector\resources\Font\QuattrocentoSans-Italic.ttf
+DataFormat:sfntData
+FileLength:108700
+FileModTime:1401114840
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:QuattrocentoSans
+FamilyName:Quattrocento Sans
+StyleName:Regular
+FullName:Quattrocento Sans
+MenuName:Quattrocento Sans
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\Skydrive\Documents\Project\Raspberry Project\ChameleonPi-14-05-26\selector\resources\Font\QuattrocentoSans-Regular.ttf
+DataFormat:sfntData
+FileLength:98340
+FileModTime:1401114840
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+

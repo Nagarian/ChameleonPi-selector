@@ -1,0 +1,18 @@
+#! /bin/sh
+
+/usr/bin/fbi -T 1 -t 1 -noverbose -a /opt/selector/resources/splash.png /opt/selector/resources/splash2.png
+
+touch /opt/selector/boot
+chown zx:zx  /opt/selector/boot
+
+cd /opt/selector/tools
+
+./set_audio.sh
+
+./netroms.sh
+./mountsquashfs.sh
+
+cd /roms
+/bin/bash AUTOEXEC.system
+
+
